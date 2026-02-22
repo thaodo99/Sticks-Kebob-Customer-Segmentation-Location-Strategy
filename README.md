@@ -55,10 +55,10 @@ The script will:
 
 - 5 clusters identified → consolidated into 3 strategic groups
 - Target segments: The Wealthy Socialists, The Family Bonding Segment
-- Recommended Location: Location C - Family-oriented; Middle-to-upper income; Community engaged; Strong alignment with Sticks’ brand & growth strategy
+- Recommended Location: Location C (Family-oriented; Middle-to-upper income; Community engaged; Strong alignment with Sticks’ brand & growth strategy)
 
 [Back To The Top](#top)
 
 ## Author Info
 Thao Do, Liz Ji, Bella Liu, Hamy Vu (UBC)
-Back To The Top
+[Back To The Top](#top)
