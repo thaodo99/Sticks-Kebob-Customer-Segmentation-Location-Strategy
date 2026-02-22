@@ -3,16 +3,14 @@
 ## Table of Contents
 - [Description](#description)
 - [Technologies](#technologies)
-- [How To Use](#how to use)
+- [How To Use](#how-to-use)
 - [Analysis Workflow](#analysis-workflow)
 - [Key Findings](#key-findings)
 - [Author Info](#author-info)
 
 ## Description
 
-This project applies hierarchical clustering and k-means segmentation to identify distinct consumer segments for Sticks Kebob Shop. Using attitudinal and behavioral variables, we uncover target customer groups and recommend the optimal expansion location among four proposed markets.
-
-Completed for MBAN course BAMA 517.
+This project applies hierarchical clustering and k-means segmentation to identify distinct consumer segments for Sticks Kebob Shop. Using attitudinal and behavioral variables, we uncover target customer groups and recommend the optimal expansion location among four proposed markets. Completed for MBAN course BAMA 517.
 
 [Back To The Top](#top)
 
@@ -48,42 +46,19 @@ The script will:
 - Identify optimal number of clusters (Elbow method)
 - Run k-means clustering
 - Profile segments
-
-Identify target segments
-
-Recommend optimal location
+- Identify target segments
+- Recommend optimal location
 
 [Back To The Top](#top)
 
 ## Key Findings
 
-5 clusters identified → consolidated into 3 strategic groups
+- 5 clusters identified → consolidated into 3 strategic groups
+- Target segments: The Wealthy Socialists, The Family Bonding Segment
+- Recommended Location: Location C - Family-oriented; Middle-to-upper income; Community engaged; Strong alignment with Sticks’ brand & growth strategy
 
-Target segments:
+[Back To The Top](#top)
 
-The Wealthy Socialists
-
-The Family Bonding Segment
-
-Recommended Location: Location C
-
-Family-oriented
-
-Middle-to-upper income
-
-Community engaged
-
-Strong alignment with Sticks’ brand & growth strategy
-
-Back To The Top
-
-Author Info
-
-Thao Do
-Liz Ji
-Bella Liu
-Hamy Vu
-
-University of British Columbia – Sauder School of Business
-
+## Author Info
+Thao Do, Liz Ji, Bella Liu, Hamy Vu (UBC)
 Back To The Top
